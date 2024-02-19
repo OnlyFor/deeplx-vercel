@@ -2,6 +2,8 @@
   "name": "deepl-api",
   "type": "commonjs",
   "dependencies": {
+    "global-agent": "^2.1.3",
+
     "got": "^11.8.5"
   }
 }

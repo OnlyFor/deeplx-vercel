@@ -1,3 +1,5 @@
+import 'global-agent/bootstrap';
+
 import _got from 'got'
 
 import {
