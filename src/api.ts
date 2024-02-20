@@ -1,4 +1,4 @@
-import 'global-agent/bootstrap';
+import 'global-agent/bootstrap.js';
 
 import _got from 'got'
 
