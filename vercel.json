@@ -1,5 +1,4 @@
 {
-  "regions": ["pdx1"],
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
     {
